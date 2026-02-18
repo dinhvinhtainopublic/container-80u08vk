@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dinhvinhtainopublic",
+  "repo": "container-80u08vk",
+  "name": "dinhvinhtainopublic",
+  "email": "dinhvinhtai.2k9@gmail.com",
+}
